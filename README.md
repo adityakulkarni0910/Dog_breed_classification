@@ -2,8 +2,8 @@
 
 ## **Links:**
 
-Dataset source [link](https://github.com/fastai/imagenette)
-Kaggle competition [link](https://www.kaggle.com/c/final-project-dl-spring-2020)
+- Dataset source [link](https://github.com/fastai/imagenette)
+- Kaggle competition [link](https://www.kaggle.com/c/final-project-dl-spring-2020)
 
 ## **Project description:**
 Dog breed classification, UT Dallas (BUAN 6V99 F20)
