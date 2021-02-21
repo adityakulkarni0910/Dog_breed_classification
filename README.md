@@ -1,17 +1,17 @@
 # Dog_breed_classification
 
-##**Links:**
+## **Links:**
 
 Dataset source [link](https://github.com/fastai/imagenette)
 Kaggle competition [link](https://www.kaggle.com/c/final-project-dl-spring-2020)
 
-##**Project description:**
+## **Project description:**
 Dog breed classification, UT Dallas (BUAN 6V99 F20)
 - Created a dog image classification model using transfer learning in deep neural network with an accuracy of ~95%
 - Language: Python (Pytorch, NumPy, Pandas, Sklearn) 
 - Platform: Google Colab (GPU)
 
-##**Results improved with:**
+## **Results improved with:**
 -	Data Augmentation
 -	Transfer Learning (using pre-trained models)
 -	Early stopping
@@ -21,5 +21,5 @@ Dog breed classification, UT Dallas (BUAN 6V99 F20)
 -	Gradient Clipping (if exploding gradients)
 -	Tried weights in loss function to account for imbalance in data.
 
-##**Acknowledgment**
+## **Acknowledgment**
 Prof. Dr. Harpreet Singh, UT Dallas
